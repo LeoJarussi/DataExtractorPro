@@ -1,0 +1,1 @@
+It seems that the provided text does not contain any tables. It consists of a glossary with definitions and explanations of various terms related to finance and the energy sector. If you have a specific format or structure in mind for tables, please provide that, and I can assist you further.

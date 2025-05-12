@@ -1,0 +1,1 @@
+It seems that the text you provided does not contain any tables. If you have a different document or more content that includes tables, please share that, and I can help you extract the tables from it.

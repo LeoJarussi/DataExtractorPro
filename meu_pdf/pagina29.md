@@ -1,0 +1,1 @@
+It seems that the provided text does not contain any tables. If you have a specific format or additional content that includes tables, please share that, and I can help extract the tables for you.
