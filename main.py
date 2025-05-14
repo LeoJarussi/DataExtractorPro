@@ -1,6 +1,6 @@
 import os
 
-os.environ["LLAMA_CLOUD_API_KEY"]= "llx-KvwWJi3O1jR5lk22PfrwMp8aiM3mUJgq5EHfh1qyCpPj3XYz"
+os.environ["LLAMA_CLOUD_API_KEY"]= "Colocar chave de API do Llama"
 
 from llama_parse import LlamaParse
 
